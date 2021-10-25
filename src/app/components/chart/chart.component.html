@@ -1,0 +1,9 @@
+<div class="flex flex-col items-center justify-center bg-gray-200 p-10">
+  <button *ngIf="isSubCluster" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" (click)="loadCloasters()">
+    Back To All Cloasters
+  </button>
+  <div class="flex flex-wrap items-center justify-start p-10">
+    <app-bubble *ngFor="let item of data" [@expandSkill] [data]="item" [size]="item.Score | number: '1.2-2'" [isSubCluster]="isSubCluster" (click)="viewSubClusters(item)"></app-bubble>
+    <!-- <app-bubble *ngFor="let item of data" [@expandSkill] [data]="item" [size]="item.Score | number: '1.2-2'" [isSubCluster]="isSubCluster" [lowestScore]="lowestScore" (setLowestScore)="setLowestScore($event)" (click)="viewSubClusters(item)"></app-bubble> -->
+  </div>
+</div>

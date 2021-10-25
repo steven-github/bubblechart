@@ -1,0 +1,8 @@
+<div class="relative rounded-full flex flex-col justify-center items-center text-center p-5 shadow-xl border-2 border-dashed" [ngStyle]="{ 
+  'width':circleSize + 'rem', 
+  'height':circleSize + 'rem',
+  'font-size':fontSize + 'rem'
+}" [ngClass]="{'bg-green-400 hover:bg-green-200 border-green-900 hover:cursor-pointer': !isSubCluster, 'bg-blue-200 border-blue-900' : isSubCluster}">
+  <div class="label">{{data.Label}}</div>
+  <div class="score">{{data.Score | number: '1.2-2'}}</div>
+</div>
