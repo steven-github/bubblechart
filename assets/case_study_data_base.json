@@ -1,0 +1,5976 @@
+{
+  "Clusters": [
+    {
+      "Score": 1,
+      "Label": "Fort Lauderdale",
+      "Meta": [],
+      "SubClusters": [
+        {
+          "Score": 1,
+          "Label": "Blackout dates",
+          "Meta": [
+            {
+              "ContactId": "205202",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204107",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205308",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205179",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202327",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202913",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203397",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202802",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203998",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206603",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204761",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202529",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203115",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205939",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204302",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206486",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206361",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203534",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205931",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202952",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202309",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.9779079286065406,
+          "Label": "Round-trip Airfare",
+          "Meta": [
+            {
+              "ContactId": "205202",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204107",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205308",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205179",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202327",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202913",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203397",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202802",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203998",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204896",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206603",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204716",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204098",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205333",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202356",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204119",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206665",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202318",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203518",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205980",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.9479540362692254,
+          "Label": "Mister Gonzales",
+          "Meta": [
+            {
+              "ContactId": "202389",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205341",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202935",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205916",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203967",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205201",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204239",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202799",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203398",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203676",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203541",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202959",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205910",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206240",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206559",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204193",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.9298018969652353,
+          "Label": "Little Rock",
+          "Meta": [
+            {
+              "ContactId": "202620",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203235",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204420",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205007",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205201",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204239",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202799",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206379",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203398",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203676",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202529",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203115",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205939",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204302",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0,
+          "Label": "Other Topics",
+          "Meta": [
+            {
+              "ContactId": "205670",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202679",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205779",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203392",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203950",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204502",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205048",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204488",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205714",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206172",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205797",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204940",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203157",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203882",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205088",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206493",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203150",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203706",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205513",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202511",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204305",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202335",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204710",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205958",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202923",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203803",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204971",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205728",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205524",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202552",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204753",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206598",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205270",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204886",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202278",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204894",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205987",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203474",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206123",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206116",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203112",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203537",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206718",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206411",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203699",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203403",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205501",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        }
+      ]
+    },
+    {
+      "Score": 0.9929849509256906,
+      "Label": "Frequent Flyer",
+      "Meta": [],
+      "SubClusters": [
+        {
+          "Score": 1,
+          "Label": "Blackout dates",
+          "Meta": [
+            {
+              "ContactId": "205202",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204107",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205308",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205179",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202327",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202913",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203397",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202802",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203998",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206603",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.983049562600069,
+          "Label": "Akron Ohio",
+          "Meta": [
+            {
+              "ContactId": "204982",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204456",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202878",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204160",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202629",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206564",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206232",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205988",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205104",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.943321718276627,
+          "Label": "Small Children",
+          "Meta": [
+            {
+              "ContactId": "204597",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205826",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205783",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206866",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202939",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203994",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205324",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202334",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.9391552954482255,
+          "Label": "Gulf Stream",
+          "Meta": [
+            {
+              "ContactId": "204730",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202405",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205396",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202998",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203580",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206381",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204196",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0,
+          "Label": "Other Topics",
+          "Meta": [
+            {
+              "ContactId": "205440",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202562",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202433",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205231",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202832",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206420",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203771",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203363",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203948",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203655",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204034",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204624",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204824",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204492",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206767",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206577",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202760",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205614",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204994",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203373",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203840",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205797",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204945",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204940",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202561",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203333",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203157",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203816",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205183",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204501",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205113",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206441",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204368",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206857",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203167",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204842",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202444",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203646",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204055",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204227",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202335",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204710",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205958",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202923",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202484",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203505",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206098",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203142",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204337",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205563",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205728",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205252",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202313",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204887",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204723",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204325",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204929",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205544",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206598",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205275",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205636",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203081",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206794",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202873",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203469",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204071",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        }
+      ]
+    },
+    {
+      "Score": 0.9895904498442581,
+      "Label": "San Antonio",
+      "Meta": [],
+      "SubClusters": [
+        {
+          "Score": 1,
+          "Label": "Photo id",
+          "Meta": [
+            {
+              "ContactId": "202562",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202792",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203771",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203363",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204415",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204998",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204602",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204003",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203360",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202688",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203294",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205698",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204000",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203918",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205117",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206416",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204523",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204546",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204761",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206486",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206361",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203534",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205931",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202952",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202309",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.9757054642976405,
+          "Label": "Birth certificates",
+          "Meta": [
+            {
+              "ContactId": "202562",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203771",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206735",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204154",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204758",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205389",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205953",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204003",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203360",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202688",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203294",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205698",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203918",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205117",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206416",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204523",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204546",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203296",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204005",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206863",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204507",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205674",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.8701337007335616,
+          "Label": "San Juan",
+          "Meta": [
+            {
+              "ContactId": "204003",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203360",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202688",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203294",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205698",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203918",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205117",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206416",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204523",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204546",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.8506949646982279,
+          "Label": "Telephone number",
+          "Meta": [
+            {
+              "ContactId": "204945",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202561",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203816",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204368",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203296",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204005",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206863",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204507",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205674",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0,
+          "Label": "Other Topics",
+          "Meta": [
+            {
+              "ContactId": "205159",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202418",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202450",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205359",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205670",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202787",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205773",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203017",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202679",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202758",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202993",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203315",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206366",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203777",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203227",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203950",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204226",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204375",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204502",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204553",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204565",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204955",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204993",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203970",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206691",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203629",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206084",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203316",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202734",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204500",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203016",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206267",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204201",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205399",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206169",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203541",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202403",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202959",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205910",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206240",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206559",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204193",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205367",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202763",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202736",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203091",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206000",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206817",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204560",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204861",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206014",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        }
+      ]
+    },
+    {
+      "Score": 0.9884162939370704,
+      "Label": "Service Center",
+      "Meta": [],
+      "SubClusters": [
+        {
+          "Score": 1,
+          "Label": "Service Center Handles",
+          "Meta": [
+            {
+              "ContactId": "202562",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202837",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203771",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204055",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203505",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206098",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205784",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205598",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205252",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202313",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204723",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203989",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206443",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202434",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204869",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206861",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206834",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205275",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202873",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203469",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203199",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204071",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.9629545053201127,
+          "Label": "Jeff for booking",
+          "Meta": [
+            {
+              "ContactId": "205778",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203366",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206862",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205784",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205598",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205771",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203989",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206443",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202434",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203121",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204869",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206861",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206834",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202573",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203977",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203199",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206843",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.8892927879115565,
+          "Label": "Gulf Stream",
+          "Meta": [
+            {
+              "ContactId": "205270",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202405",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202278",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205396",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202998",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203474",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206116",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203580",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206381",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204196",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.7787485836877986,
+          "Label": "Said Seventy Percent",
+          "Meta": [
+            {
+              "ContactId": "202324",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205459",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206021",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206573",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204864",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0,
+          "Label": "Other Topics",
+          "Meta": [
+            {
+              "ContactId": "203315",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204592",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202391",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204455",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205430",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204190",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203253",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205793",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205968",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205045",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203993",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205797",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204940",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203157",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202542",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203719",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205575",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203362",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202514",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206840",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202625",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205607",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205054",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203150",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203254",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203706",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205513",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202511",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203536",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204305",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202335",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204738",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204710",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205958",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206384",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203858",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202923",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206702",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205298",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202951",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204482",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204692",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205728",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206598",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        }
+      ]
+    },
+    {
+      "Score": 0.9634650219819823,
+      "Label": "New Orleans",
+      "Meta": [],
+      "SubClusters": [
+        {
+          "Score": 1,
+          "Label": "San Diego",
+          "Meta": [
+            {
+              "ContactId": "202620",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203235",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204420",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205007",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205194",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203336",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203951",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203725",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205816",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205508",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.9562082137858773,
+          "Label": "Gulf Stream",
+          "Meta": [
+            {
+              "ContactId": "204730",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202405",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205396",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202998",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203580",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206381",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204196",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.8865184915293275,
+          "Label": "Said Seventy Percent",
+          "Meta": [
+            {
+              "ContactId": "202324",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205459",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206021",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206573",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204864",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0,
+          "Label": "Other Topics",
+          "Meta": [
+            {
+              "ContactId": "205159",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205149",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202787",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203136",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203315",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203653",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206435",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203915",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206792",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206697",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204565",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204893",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206735",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206605",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203970",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204154",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204758",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205389",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204488",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205714",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205953",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206172",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203795",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203194",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203629",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206084",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206569",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206237",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205867",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203016",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206267",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204201",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204173",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205399",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202403",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204822",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202526",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206646",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203377",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204307",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205180",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203865",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202626",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206105",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        }
+      ]
+    },
+    {
+      "Score": 0.9576035603277724,
+      "Label": "Rent a car",
+      "Meta": [],
+      "SubClusters": [
+        {
+          "Score": 1,
+          "Label": "Day Sale",
+          "Meta": [
+            {
+              "ContactId": "205938",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203511",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204108",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206644",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204470",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204924",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206827",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202528",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205954",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206220",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.9930981817438758,
+          "Label": "Kingston Jamaica",
+          "Meta": [
+            {
+              "ContactId": "203196",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203836",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205093",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205631",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203916",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205700",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206755",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204448",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204484",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204975",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.9378582273250606,
+          "Label": "Flight Ninety",
+          "Meta": [
+            {
+              "ContactId": "203247",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204440",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205001",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202446",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205802",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206570",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204233",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.8783258898516217,
+          "Label": "London Gatwick",
+          "Meta": [
+            {
+              "ContactId": "203296",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204005",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206863",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204507",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205674",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0,
+          "Label": "Other Topics",
+          "Meta": [
+            {
+              "ContactId": "202304",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203498",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206204",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203653",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206792",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206749",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204708",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204113",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206678",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202688",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204635",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204022",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202839",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206120",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203441",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203601",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206368",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203316",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202734",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204500",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205978",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203605",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206217",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206329",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202908",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206679",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203479",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205869",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206791",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204158",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204765",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204731",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202763",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206000",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        }
+      ]
+    },
+    {
+      "Score": 0.953958828703704,
+      "Label": "Travel Agency",
+      "Meta": [],
+      "SubClusters": [
+        {
+          "Score": 1,
+          "Label": "Team Leader",
+          "Meta": [
+            {
+              "ContactId": "202255",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202837",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202784",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205871",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203342",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205803",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203939",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206129",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204080",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204577",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204655",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204574",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205190",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204633",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205828",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202800",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206490",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206187",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.8719009210684296,
+          "Label": "Canadian dollars",
+          "Meta": [
+            {
+              "ContactId": "205183",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204784",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202997",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202424",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206413",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203947",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206829",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204580",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.8526611199427133,
+          "Label": "Palm Springs",
+          "Meta": [
+            {
+              "ContactId": "205149",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203915",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206697",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202529",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203115",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205939",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204302",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.8173210505880096,
+          "Label": "Lake Charles",
+          "Meta": [
+            {
+              "ContactId": "203884",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203873",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202683",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205074",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204471",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0,
+          "Label": "Other Topics",
+          "Meta": [
+            {
+              "ContactId": "204941",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206629",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203795",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203194",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203127",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203740",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205061",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206569",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206237",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205657",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205867",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204173",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202676",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204842",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202444",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203646",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204822",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204227",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205298",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202945",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206648",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204692",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        }
+      ]
+    },
+    {
+      "Score": 0.9426139542352031,
+      "Label": "San Jose",
+      "Meta": [],
+      "SubClusters": [
+        {
+          "Score": 1,
+          "Label": "San Juan",
+          "Meta": [
+            {
+              "ContactId": "203333",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204501",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205113",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203181",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206167",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204962",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202591",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206399",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203405",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204604",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205777",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202788",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.9213508621431057,
+          "Label": "Puerto Rico",
+          "Meta": [
+            {
+              "ContactId": "203882",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205088",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206493",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206399",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203405",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204604",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205777",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202788",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.8608616067980135,
+          "Label": "Area Rope",
+          "Meta": [
+            {
+              "ContactId": "206399",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203405",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204604",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205777",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202788",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0,
+          "Label": "Other Topics",
+          "Meta": [
+            {
+              "ContactId": "205159",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205149",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202418",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205359",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205434",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202562",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205579",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202665",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202787",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203017",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203187",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203315",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205998",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203771",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203915",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206697",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204371",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206445",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204565",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204843",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204602",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202391",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203970",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205430",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206576",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202641",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205637",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204190",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205968",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203293",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203012",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202376",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204000",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202658",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206064",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204578",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203869",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204499",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205969",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206290",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205106",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203607",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203361",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202789",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205697",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        }
+      ]
+    },
+    {
+      "Score": 0.9128988067536029,
+      "Label": "North Carolina",
+      "Meta": [],
+      "SubClusters": [
+        {
+          "Score": 1,
+          "Label": "Carolina Charlotte Charlotte",
+          "Meta": [
+            {
+              "ContactId": "206678",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202709",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205913",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202928",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203480",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205281",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202322",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206063",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204228",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205799",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203772",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206201",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206050",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204874",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203666",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206222",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.987966683039121,
+          "Label": "Greenville to Atlanta",
+          "Meta": [
+            {
+              "ContactId": "205510",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204784",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202997",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202424",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203713",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206413",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203947",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206806",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206829",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204350",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204580",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203036",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202432",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206284",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203621",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0,
+          "Label": "Other Topics",
+          "Meta": [
+            {
+              "ContactId": "205786",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203711",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205991",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205232",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205392",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202551",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206179",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205851",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202268",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203956",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206671",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202908",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206679",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203479",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205869",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        }
+      ]
+    },
+    {
+      "Score": 0.9113289457450087,
+      "Label": "Quality Assurance",
+      "Meta": [],
+      "SubClusters": [
+        {
+          "Score": 1,
+          "Label": "College over Thanksgiving",
+          "Meta": [
+            {
+              "ContactId": "205084",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204443",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202624",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205666",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202769",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206273",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203766",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203297",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203257",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205008",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204596",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206851",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.9628175368152968,
+          "Label": "Lake Charles",
+          "Meta": [
+            {
+              "ContactId": "205616",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203258",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203234",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206146",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205059",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205641",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203844",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203891",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204432",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0,
+          "Label": "Other Topics",
+          "Meta": [
+            {
+              "ContactId": "202527",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205551",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203247",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204316",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204903",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204440",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205001",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206091",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203333",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204693",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205232",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204501",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205113",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205851",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202268",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203181",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206167",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203956",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204962",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202591",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203148",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206062",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205536",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202574",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204923",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        }
+      ]
+    },
+    {
+      "Score": 0.8886321072757082,
+      "Label": "Bereavement fare",
+      "Meta": [],
+      "SubClusters": [
+        {
+          "Score": 1,
+          "Label": "Fort Myers",
+          "Meta": [
+            {
+              "ContactId": "202389",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205341",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202935",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205916",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203967",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202446",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206031",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202746",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202890",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205802",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205273",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206570",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204233",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204698",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.951564845085559,
+          "Label": "Akron Ohio",
+          "Meta": [
+            {
+              "ContactId": "204982",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204456",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202878",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204160",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202629",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206564",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206232",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205988",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205104",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.9449111281938514,
+          "Label": "Flight Ninety",
+          "Meta": [
+            {
+              "ContactId": "202446",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206031",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202746",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202890",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205802",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205273",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206570",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204233",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204698",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.909076405935029,
+          "Label": "Gulf Stream",
+          "Meta": [
+            {
+              "ContactId": "204730",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202405",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205396",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202998",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203580",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206381",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204196",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0,
+          "Label": "Other Topics",
+          "Meta": [
+            {
+              "ContactId": "203058",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206796",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205426",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204882",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205232",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205851",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202268",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204256",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203956",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        }
+      ]
+    },
+    {
+      "Score": 0.8623245113274046,
+      "Label": "Drivers License",
+      "Meta": [
+        {
+          "ContactId": "202485",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203287",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203080",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203700",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203783",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206429",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204236",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204850",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202508",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204488",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205714",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203106",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205514",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206423",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206172",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203751",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204945",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202561",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203816",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204368",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202335",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204710",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205958",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202923",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205728",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206598",
+          "Speakers": [0]
+        }
+      ],
+      "SubClusters": null
+    },
+    {
+      "Score": 0.858920850532722,
+      "Label": "Sorry Tammy",
+      "Meta": [],
+      "SubClusters": [
+        {
+          "Score": 1,
+          "Label": "Letter lines",
+          "Meta": [
+            {
+              "ContactId": "205564",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202571",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203172",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203832",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206516",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204911",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203333",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204501",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205113",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.9711117304193337,
+          "Label": "Hong Kong um-hum",
+          "Meta": [
+            {
+              "ContactId": "206273",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203766",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203297",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203257",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205008",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204596",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206851",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0,
+          "Label": "Other Topics",
+          "Meta": [
+            {
+              "ContactId": "205767",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202663",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203274",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206554",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205044",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204445",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205084",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204443",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202624",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205666",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202769",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206716",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203118",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202695",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        }
+      ]
+    },
+    {
+      "Score": 0.8287286994188352,
+      "Label": "Salt Lake city",
+      "Meta": [
+        {
+          "ContactId": "205077",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205682",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202697",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203334",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204235",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204592",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204458",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202429",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204840",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206769",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202767",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205793",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205040",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203356",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203993",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203882",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205088",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206493",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202335",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204710",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205958",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202923",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205728",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206598",
+          "Speakers": [0]
+        }
+      ],
+      "SubClusters": null
+    },
+    {
+      "Score": 0.8061409235047954,
+      "Label": "Corpus Christi",
+      "Meta": [],
+      "SubClusters": [
+        {
+          "Score": 1,
+          "Label": "Newark to Aruba",
+          "Meta": [
+            {
+              "ContactId": "204235",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204592",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202429",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204840",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206769",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205793",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203993",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.9421068999687665,
+          "Label": "Palm Springs",
+          "Meta": [
+            {
+              "ContactId": "203058",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206796",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205426",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204882",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204256",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.9385257087194642,
+          "Label": "San Diego",
+          "Meta": [
+            {
+              "ContactId": "202804",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205540",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203385",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203934",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204373",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0,
+          "Label": "Other Topics",
+          "Meta": [
+            {
+              "ContactId": "205797",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204940",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203157",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        }
+      ]
+    },
+    {
+      "Score": 0.7644691794685523,
+      "Label": "Steve Mcclure",
+      "Meta": [],
+      "SubClusters": [
+        {
+          "Score": 1,
+          "Label": "Sam this Cathy",
+          "Meta": [
+            {
+              "ContactId": "204589",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203326",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205156",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205758",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0.863292258771039,
+          "Label": "Silver one",
+          "Meta": [
+            {
+              "ContactId": "203728",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206842",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        },
+        {
+          "Score": 0,
+          "Label": "Other Topics",
+          "Meta": [
+            {
+              "ContactId": "202287",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202883",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206482",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "206094",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "203547",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "204344",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "202786",
+              "Speakers": [0]
+            },
+            {
+              "ContactId": "205582",
+              "Speakers": [0]
+            }
+          ],
+          "SubClusters": null
+        }
+      ]
+    },
+    {
+      "Score": 0,
+      "Label": "Other Topics",
+      "Meta": [
+        {
+          "ContactId": "202211",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202310",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205148",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205372",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202507",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202488",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205419",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205425",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205429",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205471",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202379",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202373",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205629",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202653",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202388",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202667",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202723",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205263",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202834",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202892",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202718",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203007",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205574",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203133",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203062",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202912",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202988",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202594",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203099",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203176",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203734",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203353",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206346",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206362",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206068",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203504",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203602",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206278",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203776",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203780",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206438",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206405",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206109",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203692",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206795",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204195",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204243",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206753",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204311",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204362",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203999",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206118",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203959",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204278",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206613",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206545",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204612",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204701",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204740",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204831",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204875",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204891",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205033",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205057",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204171",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204876",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204512",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206724",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206560",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204295",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204457",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205193",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204657",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204901",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204016",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204162",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204400",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205334",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202454",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202453",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205365",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202505",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205258",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206597",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205621",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202740",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205403",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202518",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204963",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205744",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206848",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202965",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203113",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205474",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205572",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202602",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206370",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203793",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205083",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206183",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203191",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203212",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206052",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206012",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203072",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203015",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202816",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202864",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203806",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203821",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203960",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206499",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203347",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203341",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203303",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205924",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206159",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202906",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203404",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203416",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203458",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203613",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205673",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206472",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203222",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206163",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203531",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206175",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202731",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205410",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202482",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205195",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203723",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206300",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204296",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204044",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205516",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203940",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204606",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202301",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205456",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206651",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203130",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205789",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203089",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205560",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204848",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204729",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204594",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204570",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205214",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203782",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205328",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204571",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206664",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204006",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204402",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204169",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205790",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205447",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205481",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205498",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203378",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203483",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203755",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206354",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203907",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202817",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203975",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206294",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203745",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203701",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202219",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202226",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204497",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203523",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205101",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205146",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203597",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203603",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206155",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203430",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203452",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203475",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202942",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202900",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202899",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204336",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204275",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204552",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204873",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204959",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204004",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206619",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206633",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206525",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206391",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206310",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206268",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205917",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203954",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202608",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205477",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205437",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205861",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205858",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202957",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205890",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202845",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205417",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204254",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204213",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206856",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202662",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204684",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206544",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203438",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204096",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204095",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204038",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204056",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206739",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202286",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206639",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205295",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205286",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203567",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206229",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205342",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202728",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205717",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203502",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206150",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205259",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202439",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202443",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205278",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206241",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202345",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205144",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205136",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202303",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202285",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205089",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202258",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202235",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204857",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204856",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206306",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204773",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204733",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204718",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203024",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203087",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203651",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202719",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204687",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204618",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204558",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203281",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202426",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204091",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206523",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206517",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205319",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203834",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203682",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203632",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206189",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203495",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206069",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203323",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202664",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206287",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205108",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202280",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202220",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204898",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202628",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205962",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205671",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206307",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204372",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205942",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205810",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203198",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203149",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203124",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202975",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204155",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206820",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202243",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205727",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202843",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206494",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205181",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203929",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203698",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206215",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206040",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203084",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204147",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206807",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204229",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206835",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202649",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202877",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203086",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202918",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205654",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205755",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206774",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204177",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203260",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205933",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203380",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203796",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206521",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204048",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204767",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203077",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202543",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205463",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202364",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205163",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204538",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204973",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204920",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202750",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205733",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205691",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205588",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205527",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202563",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204754",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204980",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205010",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205015",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206602",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204717",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204413",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202494",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205408",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205386",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202936",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203061",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203269",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203818",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206301",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206687",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205226",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204576",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204934",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204762",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204198",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206759",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203911",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206422",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203581",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205360",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205398",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202687",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202920",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205058",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205649",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203587",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203697",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206224",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206046",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203284",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203259",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205775",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202797",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205678",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202726",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206641",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205356",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202973",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206010",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204165",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206780",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204755",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203497",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206473",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206026",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203165",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205505",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205741",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206585",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206707",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204528",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204667",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202516",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203579",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203888",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205014",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206826",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204308",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205092",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203981",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "206617",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204541",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205559",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204370",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204961",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204588",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "204593",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203239",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "203200",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "202716",
+          "Speakers": [0]
+        },
+        {
+          "ContactId": "205626",
+          "Speakers": [0]
+        }
+      ],
+      "SubClusters": null
+    }
+  ]
+}
